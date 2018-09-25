@@ -1,6 +1,6 @@
 <template>
     <Page>
-        <ActionBar title="Welcome to NativeScript-Vue!"/>
+        <ActionBar title="Welcome to the world!"/>
         <GridLayout colums="*" rows="*">
             <Label class="message" :text="msg" col="0" row="0"/>
         </GridLayout>
